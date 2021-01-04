@@ -419,7 +419,7 @@ iframe{
     left: -72%;
 
 }
-..form-control {
+.form-control {
     display: block;
     width: 74%;
     padding: .5rem .75rem;
